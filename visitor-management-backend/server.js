@@ -6,7 +6,7 @@ const mongoose = require('mongoose');
 const app = express();
 const port = process.env.PORT || 5000;
 
-// Middleware
+// Middlewareuiiii
 app.use(cors());
 app.use(bodyParser.json());
 
